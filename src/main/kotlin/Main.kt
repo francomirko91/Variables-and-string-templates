@@ -1,8 +1,8 @@
 fun main() {
 
-    val number1 = 4323
-    val number2 = 4323
-    val number3 = 4323
+    val number1 = 54
+    val number2 = 765
+    val number3 = 8654
 
     println("number1 : $number1")
     println("number2 : $number2")
